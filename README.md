@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the end of this project , you will be having an app which will able to generate memes on button click.<br/>
+Note that , we will be fetching images for memes from an api.<br/>
+It will have option for writing text on that images at specific positions for memes.<br />
+just go and explore !<br />
+Good luck<br />
 
 ## Available Scripts
 
